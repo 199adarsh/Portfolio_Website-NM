@@ -1,6 +1,3 @@
-Here is a complete and professional `README.md` for your **personal portfolio website for Niranjan More**, built with HTML, CSS, JavaScript, and Spline:
-
----
 
 # 🧠 Niranjan More – Portfolio Website
 
